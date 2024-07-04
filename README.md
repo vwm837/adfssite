@@ -1,2 +1,0 @@
-# adfssite
-ADFS splash page
